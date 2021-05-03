@@ -1,0 +1,547 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{ramanathan_2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=884258897b971d610be906adee94cbfb}{%
+           family={Ramanathan},
+           familyi={R\bibinitperiod},
+           given={Ram},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{884258897b971d610be906adee94cbfb}
+      \strng{fullhash}{884258897b971d610be906adee94cbfb}
+      \strng{bibnamehash}{884258897b971d610be906adee94cbfb}
+      \strng{authorbibnamehash}{884258897b971d610be906adee94cbfb}
+      \strng{authornamehash}{884258897b971d610be906adee94cbfb}
+      \strng{authorfullhash}{884258897b971d610be906adee94cbfb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{In the Mesh}
+      \field{month}{7}
+      \field{title}{Understanding Mesh Networking, Part I}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://inthemesh.com/archive/understanding-mesh-networking-part-i/#:~:text=A%20brief%20history,not%20available%20or%20not%20usable.&amp;text=These%20networks%20used%20bulky%20low,technology%20development%20within%20the%20military.
+      \endverb
+      \verb{url}
+      \verb https://inthemesh.com/archive/understanding-mesh-networking-part-i/#:~:text=A%20brief%20history,not%20available%20or%20not%20usable.&amp;text=These%20networks%20used%20bulky%20low,technology%20development%20within%20the%20military.
+      \endverb
+    \endentry
+    \entry{enwiki:1003045519}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 9-February-2021]}
+      \field{title}{Wireless mesh network --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Wireless_mesh_network&oldid=1003045519
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Wireless_mesh_network&oldid=1003045519
+      \endverb
+    \endentry
+    \entry{geeksforgeeks_2020}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{GeeksforGeeks}
+      \field{month}{7}
+      \field{title}{Introduction of Mobile Ad hoc Network (MANET)}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/introduction-of-mobile-ad-hoc-network-manet/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/introduction-of-mobile-ad-hoc-network-manet/
+      \endverb
+    \endentry
+    \entry{clausen_jacquet_2003}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7c97705d379c9691c290060d8c8a762c}{%
+           family={Clausen},
+           familyi={C\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=608e57fa1921a4c7983b309c761ceecc}{%
+           family={Jacquet},
+           familyi={J\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{06794483b2f8bef86cfea43f05242d84}
+      \strng{fullhash}{06794483b2f8bef86cfea43f05242d84}
+      \strng{bibnamehash}{06794483b2f8bef86cfea43f05242d84}
+      \strng{authorbibnamehash}{06794483b2f8bef86cfea43f05242d84}
+      \strng{authornamehash}{06794483b2f8bef86cfea43f05242d84}
+      \strng{authorfullhash}{06794483b2f8bef86cfea43f05242d84}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Network Working Group}
+      \field{title}{Optimized Link State Routing Protocol (OLSR)}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://tools.ietf.org/html/rfc3626
+      \endverb
+      \verb{url}
+      \verb https://tools.ietf.org/html/rfc3626
+      \endverb
+    \endentry
+    \entry{researchgate}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ResearchGate}
+      \field{title}{Performance Analysis of Various Routing Protocols for Motorway Surveillance System Cameras’ Network}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/figure/OLSR-Advantages-and-Disadvantages_tbl3_235047709
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/figure/OLSR-Advantages-and-Disadvantages_tbl3_235047709
+      \endverb
+    \endentry
+    \entry{why-starting-batman}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Why-starting-batman - batmand - Open Mesh}
+      \field{title}{Why starting B.A.T.M.A.N. ?}
+      \verb{urlraw}
+      \verb https://www.open-mesh.org/projects/batmand/wiki/Why-starting-batman
+      \endverb
+      \verb{url}
+      \verb https://www.open-mesh.org/projects/batmand/wiki/Why-starting-batman
+      \endverb
+    \endentry
+    \entry{toh_1997}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5d4d36dde0ee9baf59bdfdec2ceda672}{%
+           family={Toh},
+           familyi={T\bibinitperiod},
+           given={Chai-Keong},
+           giveni={C\bibinithyphendelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d4d36dde0ee9baf59bdfdec2ceda672}
+      \strng{fullhash}{5d4d36dde0ee9baf59bdfdec2ceda672}
+      \strng{bibnamehash}{5d4d36dde0ee9baf59bdfdec2ceda672}
+      \strng{authorbibnamehash}{5d4d36dde0ee9baf59bdfdec2ceda672}
+      \strng{authornamehash}{5d4d36dde0ee9baf59bdfdec2ceda672}
+      \strng{authorfullhash}{5d4d36dde0ee9baf59bdfdec2ceda672}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wireless Personal Communications}
+      \field{title}{Associativity-Based Routing for Ad Hoc Mobile Networks}
+      \field{year}{1997}
+      \field{pages}{103\bibrangedash 139}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1023/A:1008812928561
+      \endverb
+    \endentry
+    \entry{johnson_2007}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=927a9591a81d13904e2417ff95619693}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{927a9591a81d13904e2417ff95619693}
+      \strng{fullhash}{927a9591a81d13904e2417ff95619693}
+      \strng{bibnamehash}{927a9591a81d13904e2417ff95619693}
+      \strng{authorbibnamehash}{927a9591a81d13904e2417ff95619693}
+      \strng{authornamehash}{927a9591a81d13904e2417ff95619693}
+      \strng{authorfullhash}{927a9591a81d13904e2417ff95619693}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IETF Tools}
+      \field{month}{2}
+      \field{title}{The Dynamic Source Routing Protocol (DSR) for Mobile Ad Hoc Networks for IPv4}
+      \field{year}{2007}
+      \verb{urlraw}
+      \verb https://tools.ietf.org/html/rfc4728
+      \endverb
+      \verb{url}
+      \verb https://tools.ietf.org/html/rfc4728
+      \endverb
+    \endentry
+    \entry{haas}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3da285f0e4bf7d3124f49c7333a4d801}{%
+           family={Haas},
+           familyi={H\bibinitperiod},
+           given={Z.j.},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{3da285f0e4bf7d3124f49c7333a4d801}
+      \strng{fullhash}{3da285f0e4bf7d3124f49c7333a4d801}
+      \strng{bibnamehash}{3da285f0e4bf7d3124f49c7333a4d801}
+      \strng{authorbibnamehash}{3da285f0e4bf7d3124f49c7333a4d801}
+      \strng{authornamehash}{3da285f0e4bf7d3124f49c7333a4d801}
+      \strng{authorfullhash}{3da285f0e4bf7d3124f49c7333a4d801}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of ICUPC 97 - 6th International Conference on Universal Personal Communications}
+      \field{title}{A new routing protocol for the reconfigurable wireless networks}
+      \verb{doi}
+      \verb 10.1109/icupc.1997.627227
+      \endverb
+    \endentry
+    \entry{enwiki:987177004}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 9-February-2021]}
+      \field{title}{Fisheye State Routing --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Fisheye_State_Routing&oldid=987177004
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Fisheye_State_Routing&oldid=987177004
+      \endverb
+    \endentry
+    \entry{enwiki:618641168}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 9-February-2021]}
+      \field{title}{Order One Network Protocol --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Order_One_Network_Protocol&oldid=618641168
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Order_One_Network_Protocol&oldid=618641168
+      \endverb
+    \endentry
+    \entry{boland_2007}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6cf54a2fab60fa07e503cdc90d46dd33}{%
+           family={Boland},
+           familyi={B\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6cf54a2fab60fa07e503cdc90d46dd33}
+      \strng{fullhash}{6cf54a2fab60fa07e503cdc90d46dd33}
+      \strng{bibnamehash}{6cf54a2fab60fa07e503cdc90d46dd33}
+      \strng{authorbibnamehash}{6cf54a2fab60fa07e503cdc90d46dd33}
+      \strng{authornamehash}{6cf54a2fab60fa07e503cdc90d46dd33}
+      \strng{authorfullhash}{6cf54a2fab60fa07e503cdc90d46dd33}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{No Node Left Behind}
+      \field{year}{2007}
+    \endentry
+    \entry{amin_saeed_2018}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=fdc4fc97107316184a292d1e4a2275ab}{%
+           family={Amin},
+           familyi={A\bibinitperiod},
+           given={Imran},
+           giveni={I\bibinitperiod}}}%
+        {{hash=00f2f381cdac2dd39d6a72f5adb1e13a}{%
+           family={Saeed},
+           familyi={S\bibinitperiod},
+           given={Atif},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a045f5bce0391ee6f764d2bc2d7c5ba}
+      \strng{fullhash}{2a045f5bce0391ee6f764d2bc2d7c5ba}
+      \strng{bibnamehash}{2a045f5bce0391ee6f764d2bc2d7c5ba}
+      \strng{authorbibnamehash}{2a045f5bce0391ee6f764d2bc2d7c5ba}
+      \strng{authornamehash}{2a045f5bce0391ee6f764d2bc2d7c5ba}
+      \strng{authorfullhash}{2a045f5bce0391ee6f764d2bc2d7c5ba}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Zigbee protocol}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/topics/engineering/zigbee-protocol
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/topics/engineering/zigbee-protocol
+      \endverb
+    \endentry
+    \entry{enwiki:999715964}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 9-February-2021]}
+      \field{title}{Zigbee --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Zigbee&oldid=999715964
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Zigbee&oldid=999715964
+      \endverb
+    \endentry
+    \entry{enwiki:986340162}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 9-February-2021]}
+      \field{title}{Commotion Wireless --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Commotion_Wireless&oldid=986340162
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Commotion_Wireless&oldid=986340162
+      \endverb
+    \endentry
+    \entry{byrum_2020}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c748b71bb18b744b94e45b5bd09098f0}{%
+           family={Byrum},
+           familyi={B\bibinitperiod},
+           given={Greta},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c748b71bb18b744b94e45b5bd09098f0}
+      \strng{fullhash}{c748b71bb18b744b94e45b5bd09098f0}
+      \strng{bibnamehash}{c748b71bb18b744b94e45b5bd09098f0}
+      \strng{authorbibnamehash}{c748b71bb18b744b94e45b5bd09098f0}
+      \strng{authornamehash}{c748b71bb18b744b94e45b5bd09098f0}
+      \strng{authorfullhash}{c748b71bb18b744b94e45b5bd09098f0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Urban Omnibus}
+      \field{month}{4}
+      \field{title}{Building the People's Internet}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://urbanomnibus.net/2019/10/building-the-peoples-internet/
+      \endverb
+      \verb{url}
+      \verb https://urbanomnibus.net/2019/10/building-the-peoples-internet/
+      \endverb
+    \endentry
+    \entry{enwiki:1004659358}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 9-February-2021]}
+      \field{title}{Iridium satellite constellation --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Iridium_satellite_constellation&oldid=1004659358
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Iridium_satellite_constellation&oldid=1004659358
+      \endverb
+    \endentry
+    \entry{7454499}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=4f02a7d569f752433fe7cf0bea4ced12}{%
+           family={{Alanazi}},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=410394ce454a7c401bf7ab6476217ed5}{%
+           family={{Al-Muhtadi}},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=563cc438602fa90a8b7f3694bd186dfd}{%
+           family={{Derhab}},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e5a1b1832c8abcf509207534240a1ee5}{%
+           family={{Saleem}},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=87981d1f360f756cd62d9346b139461e}{%
+           family={{AlRomi}},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=10ceb13c7b3808949cd569b624dedded}{%
+           family={{Alholaibah}},
+           familyi={A\bibinitperiod},
+           given={H.\bibnamedelimi S.},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=ce94cb987d17f845943570ed1b0bde89}{%
+           family={{Rodrigues}},
+           familyi={R\bibinitperiod},
+           given={J.\bibnamedelimi J.\bibnamedelimi P.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{99c6bd314b6e8cad5f04da06fd144c8e}
+      \strng{fullhash}{e205726dd42663a2698b33c2c9f8ea4e}
+      \strng{bibnamehash}{e205726dd42663a2698b33c2c9f8ea4e}
+      \strng{authorbibnamehash}{e205726dd42663a2698b33c2c9f8ea4e}
+      \strng{authornamehash}{99c6bd314b6e8cad5f04da06fd144c8e}
+      \strng{authorfullhash}{e205726dd42663a2698b33c2c9f8ea4e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 17th International Conference on E-health Networking, Application Services (HealthCom)}
+      \field{title}{On resilience of Wireless Mesh routing protocol against DoS attacks in IoT-based ambient assisted living applications}
+      \field{year}{2015}
+      \field{pages}{205\bibrangedash 210}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/HealthCom.2015.7454499
+      \endverb
+    \endentry
+    \entry{8319326}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=156adaef16bb1eaff2382d82463bdc58}{%
+           family={{Pandi}},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9e9e9c716237f224c4d2ac2518e3510c}{%
+           family={{Wunderlich}},
+           familyi={W\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1ab32f71c8ae5c2116f574ce873bb63a}{%
+           family={{Fitzek}},
+           familyi={F\bibinitperiod},
+           given={F.\bibnamedelimi H.\bibnamedelimi P.},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{73a718caed1c40532c3f83e7c7729e9f}
+      \strng{fullhash}{73a718caed1c40532c3f83e7c7729e9f}
+      \strng{bibnamehash}{73a718caed1c40532c3f83e7c7729e9f}
+      \strng{authorbibnamehash}{73a718caed1c40532c3f83e7c7729e9f}
+      \strng{authornamehash}{73a718caed1c40532c3f83e7c7729e9f}
+      \strng{authorfullhash}{73a718caed1c40532c3f83e7c7729e9f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 15th IEEE Annual Consumer Communications Networking Conference (CCNC)}
+      \field{title}{Reliable low latency wireless mesh networks — From Myth to reality}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 2}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1109/CCNC.2018.8319326
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
